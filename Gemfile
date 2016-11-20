@@ -7,7 +7,7 @@ gem 'rails', '4.2.5.1'
 group :development do
   gem 'sqlite3'
 
-gem 'carrierwave'
+
 
 end
 group :production do
@@ -54,3 +54,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rails_12factor', group: :production
 gem 'coffee-script-source', '1.8.0'
+gem 'carrierwave'
